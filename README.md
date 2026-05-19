@@ -2,6 +2,8 @@
 
 A single-file QR code generator that produces clean SVGs with a logo embedded in the center.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **URL → SVG QR code** with high error correction (level H), so the center can be safely covered by the logo
